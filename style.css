@@ -1,0 +1,21 @@
+body {
+  background-color: white;
+}
+
+.title {
+	text-align: center;
+	margin-bottom: 1%;
+}
+
+#queryError {
+  color: red;
+}
+
+#feedback {
+  color: red;
+}
+
+.container {
+    margin: 2px;
+    padding: 40px 60px;
+}
